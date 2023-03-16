@@ -12,5 +12,12 @@
     "aircraft": "Airbus A320",
     "distance": 950,
     "intercontinental": false
+  },
+  {
+    "departureAirport": "LHR",
+    "arrivalAirport": "TXL",
+    "aircraft": "Airbus A320",
+    "distance": 950,
+    "intercontinental": false
   }
 ]
