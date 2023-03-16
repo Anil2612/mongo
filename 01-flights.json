@@ -27,4 +27,11 @@
     "distance": 456,
     "intercontinental": false
   }
+  {
+    "departureAirport": "COK",
+    "arrivalAirport": "BNG",
+    "aircraft": "Airbus A345",
+    "distance": 456,
+    "intercontinental": false
+  }
 ]
