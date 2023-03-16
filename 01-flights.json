@@ -14,10 +14,17 @@
     "intercontinental": false
   },
   {
-    "departureAirport": "LHR",
-    "arrivalAirport": "TXL",
-    "aircraft": "Airbus A320",
-    "distance": 950,
+    "departureAirport": "ABC",
+    "arrivalAirport": "GHJ",
+    "aircraft": "Airbus A123",
+    "distance": 123,
+    "intercontinental": true
+  },
+  {
+    "departureAirport": "XYZ",
+    "arrivalAirport": "QWE",
+    "aircraft": "Airbus A345",
+    "distance": 456,
     "intercontinental": false
   }
 ]
